@@ -1,0 +1,9 @@
+Considerations:
+
+* The "index" or "position" of each list starts at zero.
+
+* The insertPosition(int, int) method does not insert new nodes at positions: zero and after the last position.
+(Use the specific methods to insert nodes at those positions).
+
+* The deletePosition(int) method deletes the node from any position.
+(As long as the position exists in the list).
